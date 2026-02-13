@@ -35,8 +35,10 @@
   },
   "name":"CLT Runner",
   "resources":[
+    {"id":{"name":"obj_Coxinha","path":"objects/obj_Coxinha/obj_Coxinha.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_Coxinha","path":"sprites/spr_Coxinha/spr_Coxinha.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
   ],
   "resourceType":"GMProject",

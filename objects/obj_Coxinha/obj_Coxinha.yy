@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Player",
+  "%Name":"obj_Coxinha",
   "eventList":[],
   "managed":true,
-  "name":"obj_Player",
+  "name":"obj_Coxinha",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Player",
-    "path":"sprites/spr_Player/spr_Player.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
