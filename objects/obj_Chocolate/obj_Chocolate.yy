@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Coxinha",
+  "%Name":"obj_Chocolate",
   "eventList":[],
   "managed":true,
-  "name":"obj_Coxinha",
+  "name":"obj_Chocolate",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Coxinha",
-    "path":"sprites/spr_Coxinha/spr_Coxinha.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
