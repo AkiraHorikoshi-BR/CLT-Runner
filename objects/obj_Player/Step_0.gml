@@ -1,8 +1,8 @@
 
 if (x > 100) {
-	image_angle = !image_angle ;
+	image_xscale = -1 ;
 } else {
-	image_angle = 0;
+	image_xscale = 1;
 }
 
 #region Movimentação
@@ -10,13 +10,13 @@ if (x > 100) {
 //	Se apertar a seta para esquerda, ele vai para
 //esquerda
 if (keyboard_check_pressed(vk_left)) {
-	x = 58;
+	x = 28;
 }
 
 //	Se apertar para direita, ele vai para
 //direita
 if (keyboard_check_pressed(vk_right)) {
-	x = 302;
+	x = 152;
 }
 
 #endregion
