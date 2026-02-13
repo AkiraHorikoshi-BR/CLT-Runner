@@ -43,6 +43,7 @@
     {"id":{"name":"obj_Hamburguer","path":"objects/obj_Hamburguer/obj_Hamburguer.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_Batata","path":"sprites/spr_Batata/spr_Batata.yy",},},
     {"id":{"name":"spr_Botao_de_Espaco","path":"sprites/spr_Botao_de_Espaco/spr_Botao_de_Espaco.yy",},},
     {"id":{"name":"spr_Chocolate","path":"sprites/spr_Chocolate/spr_Chocolate.yy",},},
