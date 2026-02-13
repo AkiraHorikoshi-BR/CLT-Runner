@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Chocolate",
+  "%Name":"obj_Batata",
   "eventList":[],
   "managed":true,
-  "name":"obj_Chocolate",
+  "name":"obj_Batata",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Chocolate",
-    "path":"sprites/spr_Chocolate/spr_Chocolate.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
