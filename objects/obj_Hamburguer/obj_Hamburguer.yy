@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Batata",
+  "%Name":"obj_Hamburguer",
   "eventList":[],
   "managed":true,
-  "name":"obj_Batata",
+  "name":"obj_Hamburguer",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Batata",
-    "path":"sprites/spr_Batata/spr_Batata.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
