@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Hamburguer",
+  "%Name":"Obj_CLT",
   "eventList":[],
   "managed":true,
-  "name":"obj_Hamburguer",
+  "name":"Obj_CLT",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Hamburguer",
-    "path":"sprites/spr_Hamburguer/spr_Hamburguer.yy",
+    "name":"spr_CLT",
+    "path":"sprites/spr_CLT/spr_CLT.yy",
   },
   "spriteMaskId":null,
   "visible":true,
